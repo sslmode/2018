@@ -123,10 +123,10 @@ echo "" | lolcat
 echo "" | lolcat
 echo "      --[         SELAMAT DATANG  DI VPN989SCRIPT        ]--"| boxes -d boy | lolcat
 echo "         ====================================================="| lolcat
-echo "         #           WhatsApp     : +60143749392            #"| lolcat
-echo "         #           Telegram     : @Chandra989             #"| lolcat
-echo "         #           GROUP        : T.me/Vpn989Group        #"| lolcat
-echo "         #           Channel      : T.me/Vpn989             #"| lolcat
+echo "         #           WhatsApp     : +60138733203            #"| lolcat
+echo "         #           Telegram     : @orangkuatsabahanterkini#"| lolcat
+echo "         #           GROUP        : T.me/                   #"| lolcat
+echo "         #           Channel      : T.me/Newpremiumservice  #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
 echo "         #      Sila taip [menu] and ENTER untuk options    #"| lolcat
 echo "         #--------------------------------------------------#"| lolcat
