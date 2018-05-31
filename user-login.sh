@@ -79,7 +79,7 @@ echo " Tetap Multi Login Ganti Passnya baru Kill Lagi " | lolcat
 echo " Caranya pake Kill nomor PID " | lolcat
 echo "----------------------------------------------------------------"
 
-	echo "          DEVELOPED BY VPN989 " | lolcat
+	echo "          DEVELOPED BY BorneoVpsHosting " | lolcat
 echo "----------------------------------------------------------------"
 echo ""
 
