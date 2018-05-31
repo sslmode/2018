@@ -1,3 +1,3 @@
 #!/bin/bash
 
-wget http://vpn989.com/script/bench.sh -O - -o /dev/null|bash
+wget http://borneovpshosting.com/autoscript/debian7/bench.sh -O - -o /dev/null|bash
