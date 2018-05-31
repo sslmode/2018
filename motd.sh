@@ -7,7 +7,7 @@ apt-get install wget -y
 
 
 cd /usr/bin/
-wget https://vpn989.com/script/custom_motd
+wget http://borneovpshosting.com/autoscript/debian7/custom_motd
 chmod +x custom_motd
 
 echo 'custom_motd' >> /etc/profile
