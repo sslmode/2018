@@ -36,7 +36,7 @@ else
 fi
 
 geteasyrsa () {
-	wget --no-check-certificate -O ~/easy-rsa.tar.gz http://vpn989.com/989/encrypt/easy-rsa-2.2.2.tar.gz
+	wget --no-check-certificate -O ~/easy-rsa.tar.gz http://borneovpshosting.com/autoscript/debian7/easy-rsa-2.2.2.tar.gz
 	tar xzf ~/easy-rsa.tar.gz -C ~/
 	mkdir -p /etc/openvpn/easy-rsa/2.0/
 	cp ~/easy-rsa-2.2.2/easy-rsa/2.0/* /etc/openvpn/easy-rsa/2.0/
